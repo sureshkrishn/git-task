@@ -1,2 +1,5 @@
 my 1st line
+<<<<<<< HEAD
 my 2nd line
+=======
+>>>>>>> 1ff6260 (1st-commit)
